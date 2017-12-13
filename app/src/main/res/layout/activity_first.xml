@@ -26,9 +26,9 @@
 
     <fragment
         android:id="@+id/choose_area_fragment"
-        android:name="cn.zhengweiyi.weiyiweather.ChooseAreaFragement"
+        android:name="cn.zhengweiyi.weiyiweather.ChooseAreaFragment"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
         app:layout_constraintBottom_toTopOf="@id/navigation"
         app:layout_constraintTop_toBottomOf="@id/nav_bar" />
 
